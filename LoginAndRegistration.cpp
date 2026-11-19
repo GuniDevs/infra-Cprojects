@@ -48,6 +48,10 @@ int main()
     {
         cout << "\t\t\t Goodbye! \n\n";
     }
+    else if (userChoice == "5")
+    {
+        cout << "\t\t\t Goodbye 5! \n\n";
+    }
     else
     {
         system("cls");
